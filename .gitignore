@@ -17,3 +17,10 @@ venv/
 Thumbs.db
 .idea/
 .vscode/
+
+# Real local logs / exported events
+data/
+*.csv
+*.evtx
+*.log
+*.json
